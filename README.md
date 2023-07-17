@@ -13,6 +13,8 @@ Atividade3 pares: https://studio.code.org/projects/gamelab/W0-Qoiof7tLfdQSDtnJLW
 Desafio aluno2: Imprimir no console apenas números ímpares de 21 a 41.
 https://studio.code.org/projects/gamelab/dRj58xPpMsVyYcFxOsGY4eaZ0i-hN0xPFnmPVop3Qis
 
+Como ficará o jogo completo: https://studio.code.org/projects/gamelab/V8w4PpINzT2nLZDOqJnG-r22Ut2CoEUfMnj-CdIDS7s/
+
 Atividade 3: https://studio.code.org/projects/gamelab/dRj58xPpMsVyYcFxOsGY4YFWql3Z2qfQnv0uDJyMw90
 
 Atividade 4: https://studio.code.org/projects/gamelab/xe6fpPVCDu6ZnOjbk-A9CWNfhmevIXkhT7Y75-1C7zs
